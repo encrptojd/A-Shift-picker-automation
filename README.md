@@ -25,33 +25,33 @@
 
    > The extension will be able to run code that has not been reviewed by Google. Only enable this if you trust the script and understand the risks.
 
-4. Log in to your Amazon account.
+4. Log in to your **A account**.
 
 5. Apply your preferred filters:
    - Select desired locations.
-   - Choose **Part-Time** or **Full-Time** shifts (optional).
+   - Choose **Part-Time** or **Full-Time** options (optional).
 
-6. Click **Apply** to start searching for available shifts.
+6. Click **Apply** to start searching for available opportunities.
 
-7. Wait for shifts to appear and enjoy! 🎉
+7. Wait for results to appear and enjoy! 🎉
 
 ---
 
 ## ⚠️ Disclaimer
 
-This script is intended for educational and personal use only. Use it responsibly and in accordance with Amazon's terms of service.
+This script is intended for educational and personal use only. Use it responsibly and in accordance with the applicable Terms of Service.
 
 # 🌐 RapidApply
 
-RapidApply is a Tampermonkey automation userscript for monitoring and reacting to Amazon shift availability workflows in real time.
+RapidApply is a Tampermonkey automation userscript for monitoring and reacting to workflow availability in real time.
 
-It supports instant shift detection, automated interaction flows, alarm notifications, and React-compatible event handling for dynamic SPA pages.
+It supports instant detection, automated interaction flows, alarm notifications, and React-compatible event handling for dynamic SPA pages.
 
 ---
 
 # 🚀 Features
 
-- ⚡ Instant shift detection
+- ⚡ Instant availability detection
 - 🔄 Auto refresh & monitoring
 - 🖱️ React-compatible mouse event automation
 - 🔔 Continuous local alarm system
@@ -74,21 +74,20 @@ It supports instant shift detection, automated interaction flows, alarm notifica
 
 ---
 
-
 # 🚀 Workflow
 
 ```text
 Reload Page
    ↓
-Detect Available Shift
+Detect Available Opportunity
    ↓
 Trigger Alarm
    ↓
-Select Shift
+Select Option
    ↓
 Apply
    ↓
-Create Application
+Create Submission
 ```
 
 ---
@@ -109,7 +108,7 @@ Using automation tools may result in:
 - account restrictions
 - suspension or termination
 
-Amazon and similar platforms actively use anti-bot detection systems.
+Many platforms actively use anti-bot detection systems.
 
 Use at your own risk.
 
@@ -130,4 +129,5 @@ to this repository.
 ---
 
 # 👨‍💻 Author
+
 Encrpto
