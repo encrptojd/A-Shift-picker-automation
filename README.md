@@ -1,3 +1,46 @@
+# ⚙️ Installation
+
+1. Install **Tampermonkey** extension from:
+   https://www.tampermonkey.net/
+
+2. Open Tampermonkey and create a **New Userscript**.
+
+3. Paste the **RapidApply** script into the editor.
+
+4. Save the script.
+
+5. Open the target workflow page.
+
+---
+
+# 🚀 Usage Instructions
+
+1. Complete the installation steps above.
+
+2. Open **Manage Extensions** in your browser and select **Tampermonkey**.
+
+3. Enable the following option:
+
+   - **Allow User Scripts** → Turn this ON for Tampermonkey.
+
+   > The extension will be able to run code that has not been reviewed by Google. Only enable this if you trust the script and understand the risks.
+
+4. Log in to your Amazon account.
+
+5. Apply your preferred filters:
+   - Select desired locations.
+   - Choose **Part-Time** or **Full-Time** shifts (optional).
+
+6. Click **Apply** to start searching for available shifts.
+
+7. Wait for shifts to appear and enjoy! 🎉
+
+---
+
+## ⚠️ Disclaimer
+
+This script is intended for educational and personal use only. Use it responsibly and in accordance with Amazon's terms of service.
+
 # 🌐 RapidApply
 
 RapidApply is a Tampermonkey automation userscript for monitoring and reacting to Amazon shift availability workflows in real time.
@@ -31,20 +74,6 @@ It supports instant shift detection, automated interaction flows, alarm notifica
 
 ---
 
-# ⚙️ Installation
-
-1. Install Tampermonkey:
-   https://www.tampermonkey.net/
-
-2. Create a new userscript
-
-3. Paste the RapidApply script
-
-4. Save the script
-
-5. Open the target workflow page
-
----
 
 # 🚀 Workflow
 
